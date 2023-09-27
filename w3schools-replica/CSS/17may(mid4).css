@@ -1,0 +1,133 @@
+.mid4{
+  display: flex; /* Use flexbox */
+  height: 450px;
+  width: 100vw;
+  background-color: #282A36;
+}
+.mid41 {
+  flex: 1; /* Take up equal space */
+}
+
+
+
+
+
+.mid4right {
+  flex: 1; /* Take up equal space */
+  /*background-color: #D9EDE1;  Just for visualization */
+  display: flex; /* Use flexbox */
+  justify-content: center; /* Horizontally center the content */
+  align-items: center; /* Vertically center the content */
+}
+
+.box2 {
+  background-color: lightgrey;
+  height: 350px;
+  width: 500px;
+  position: relative;
+  overflow: hidden;
+}
+
+.inner-box2 {
+  position: absolute; /* Position the inner box */
+  top: 45px;
+  left: 0;
+  height: 73%;
+  width: 100%;
+  
+  background-color: white; /* Different background color */
+  border-left: 5px solid green; /* Green left border */
+ 
+}
+
+  .top-content2{
+    margin-top: 15px; 
+    margin-left: 10px; 
+    font-weight: bold;
+    font-size: 20px;
+  }
+  .bottom-content2{
+    margin-top: 270px; 
+    margin-left: 10px; 
+    font-weight: bold;
+    font-size: 20px;
+  }
+  #box12 {
+  border-radius: 20px;
+  border: none;
+  color: white;
+  cursor: pointer;
+  background-color: #02A66B;
+  font-size: 15px; /* Adjust the value as desired */
+  padding: 7px 15px; /* Adjust the padding values as desired */
+
+}
+#box12:hover{
+  background-color: #017E50;
+}
+
+#pre12 {
+  position: absolute;
+  top: 0;
+  right: 230;
+  margin: 0;
+  padding: 10px;
+  font-size: 15px;
+}
+
+
+.mid41 {
+  flex: 1;
+  display: flex;
+  flex-direction: column; /* Stack the items vertically */
+  justify-content: center; /* Center vertically */
+  align-items: center; /* Center horizontally */
+}
+
+
+#pmid41{
+
+  font-size: 50px;
+  font-weight: bold;
+  color: white;
+}
+#pmid42{
+  font-weight: bold;
+  margin-top: 15px;
+  color: white;
+}
+
+
+
+
+#p41,#p42 {
+  border-radius: 20px;
+  border: none;
+  color: white;
+  width: 180px;
+  cursor: pointer;
+  margin-top: 15px;
+  font-size: 15px; /* Adjust the value as desired */
+  padding: 7px 15px; /* Adjust the padding values as desired */
+
+}
+#p43,#p44{
+
+  border-radius: 20px;
+  border: none;
+  color: black;
+  width: 180px;
+  cursor: pointer;
+  margin-top: 15px;
+  font-size: 15px; /* Adjust the value as desired */
+  padding: 7px 15px; /* Adjust the padding values as desired */
+
+}
+#p41{background-color: #02A66B;}
+#p42{background-color: #FFF3A1}
+#p43{background-color: white}
+#p44{background-color: #FFC3C3}
+#p41:hover{background-color: #017E50;}
+#p42:hover{background-color: #FFE74D}
+#p43:hover{background-color: lightgrey;}
+#p44:hover{background-color: #6F2AEF}

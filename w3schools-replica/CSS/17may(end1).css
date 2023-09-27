@@ -1,0 +1,212 @@
+.end1 {
+  display: flex;
+  justify-content: center;
+  background-color: #282A36;
+  width: 100vw;
+}
+
+.container {
+  float: left;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin: 100px;
+}
+
+
+
+.boxel1{background-color: #FFC0C8;}
+.boxel2{background-color: #F4ECEA;}
+.boxel3{background-color: #96D4D3;}
+.boxel1,.boxel2,.boxel3 {
+  height: 200px;
+  width: 500px;
+  border-radius: 6px;
+  position: relative;
+  margin-bottom: 50px;
+  overflow: hidden;
+}
+.boxel4 {
+  background-color: #FFC0C8;
+  margin-top: 100px;
+  height: 100px;
+  width: 500px;
+  border-radius: 6px;
+  position: relative;
+  margin-bottom: 50px;
+  overflow: hidden;
+}
+.boxel9,.boxel10{
+  background-color: #FFC0C8;
+  margin-top: 50px;
+  height: 100px;
+  width: 500px;
+  border-radius: 6px;
+  position: relative;
+  margin-bottom: 10 px;
+  overflow: hidden;
+
+}
+
+
+
+
+/* Rest of your CSS styles for .top-contentel1, .bottom-contentel1, #butel1, .top-contenter1, .bottom-contenter1, #buter1, #preel1, #preer1 */
+#butel1 {
+  border-radius: 10px;
+  border: none;
+  color: white;
+  cursor: pointer;
+  background-color: #282A36;
+  font-size: 15px; /* Adjust the value as desired */
+  padding: 7px 15px; /* Adjust the padding values as desired */
+
+}
+#butel1:hover{background-color: #0B0B0F}
+
+
+.top-contentel1{
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 30px;}
+  .mid-contentel1{
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 10px;}
+  .bottom-contentel1{
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 30px;}
+.mid-contentel1,
+.bottom-contentel1,.top-contentel1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.boxel51,.boxel61,.boxel71,.boxel81{margin-right: 55px; background-color: #FFF4A4}
+.boxel52,.boxel62,.boxel72,.boxel82{background-color: #96D4D3}
+.boxel51,.boxel52,.boxel61,.boxel62,.boxel71,.boxel72,.boxel81,.boxel82{
+  float: left;
+  height: 100px;
+  width: 220px;
+  border-radius: 6px;
+  position: relative;
+  margin-bottom: 50px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.boxer1{background-color: #FFF4A4;}
+.boxer2{background-color: #D9EDE1;}
+.boxer3{background-color: lightgrey;}
+.boxer1,.boxer2,.boxer3 {
+  height: 200px;
+  width: 500px;
+  border-radius: 6px;
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 50px;
+}
+.boxer4{
+  background-color: #FFF4A4;
+  margin-top: 100px;
+  height: 100px;
+  width: 500px;
+  border-radius: 6px;
+  position: relative;
+  margin-bottom: 50px;
+  overflow: hidden;
+}
+.boxer9,.boxer10{
+  background-color: #FFF4A4;
+  margin-top: 50px;
+  height: 100px;
+  width: 500px;
+  border-radius: 6px;
+  position: relative;
+  margin-bottom: 10 px;
+  overflow: hidden;
+
+}
+
+
+
+
+.boxer51,.boxer61,.boxer71,.boxer81{margin-right: 55px; background-color: #FFC0C8}
+.boxer52,.boxer62,.boxer72,.boxer82{background-color: #F4ECEA}
+.boxer51,.boxer52,.boxer61,.boxer62,.boxer71,.boxer72,.boxer81,.boxer82{
+  float: left;
+  height: 100px;
+  width: 220px;
+  border-radius: 6px;
+  position: relative;
+  margin-bottom: 50px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Rest of your CSS styles for .top-contentel1, .bottom-contentel1, #butel1, .top-contenter1, .bottom-contenter1, #buter1, #preel1, #preer1 */
+#buter1 {
+  border-radius: 10px;
+  border: none;
+  color: white;
+  cursor: pointer;
+  background-color: #282A36;
+  font-size: 15px; /* Adjust the value as desired */
+  padding: 7px 15px; /* Adjust the padding values as desired */
+
+}
+#buter1:hover{background-color: #0B0B0F}
+
+
+.top-contenter1{
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 30px;}
+  .mid-contenter1{
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 10px;}
+  .bottom-contenter1{
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 30px;}
+.mid-contenter1,
+.bottom-contenter1,.top-contenter1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}

@@ -1,0 +1,104 @@
+@media (max-width: 750px) 
+{
+  .mid2,.mid3,.mid4,.mid5,.mid6 {
+    flex-direction: column;
+    height: auto;
+  }
+  
+  .mid21,
+  .mid2right,
+  .mid31,.mid3right,
+  .mid41,.mid4right,
+  .mid51,.mid5right,
+  .mid61,.mid6right {
+    flex: none;
+    width: 100%;
+  }
+  
+  .mid21,.mid31,.mid41,.mid51,.mid61 {
+    order: -1; /* Move .mid2right to the top in stacked layout */
+  }
+  .mid2right,.mid3right,.mid4right,.mid5right,.mid6right {
+    width: 400px; /* Adjust the height as desired */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+     margin-top: 20px;
+     margin-bottom: 20px;
+  }
+
+  .mid2right .box,.mid3right .box1 ,.mid4right .box2,.mid5right .box3,.mid6right .box4{
+     /* Adjust the height as desired */
+    /* Adjust the width as desired */
+    margin-right: -220px; /* Center the box horizontally */
+    
+     max-width: 100%; /* Ensure the box remains within the viewport */
+    overflow: hidden;
+  }
+
+  
+  .mid2right #pre1,.mid3right #pre11,.mid4right #pre12,.mid5right #pre13,.mid6right #pre14{
+    position: absolute;
+    top: -5%;
+    right: 25%;
+    
+      Center the pre element */
+  }
+
+  
+  
+
+
+
+}
+  
+
+
+
+@media (min-width: 750px) 
+{
+  .mid2 {
+    flex-direction: row;
+    height: 450px;
+  }
+  
+  .mid21,
+  .mid2right {
+    flex: 1;
+    width: auto;
+  }
+  
+  .mid21 {
+    order: 0; /* Reset the order to default */
+  }
+}
+
+
+
+
+@media (max-width: 750px) {
+   .search-icon {
+    display: none;
+  }
+}
+
+
+@media (max-width: 750px) {
+  .end1 {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .end1left {
+    order: 1;
+  }
+
+  .end1right {
+    order: 2;
+  }
+  .end1left,
+  .end1right {
+    width: 100%; /* Occupy the full width of the container */
+  }
+}

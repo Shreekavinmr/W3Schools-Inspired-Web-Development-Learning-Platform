@@ -1,0 +1,71 @@
+@media (max-width: 1290px) {
+  .head.head3.response2 {
+    display: none;
+  }
+}
+
+@media (max-width: 1535px) {
+  .head3 {
+    margin-left: 50px; /* Adjust this value as per your requirements */
+  }
+}
+
+@media (max-width: 850px) {
+  #hb2{
+    display: none;
+  }
+}
+
+@media (max-width: 800px) {
+  #hb1{
+    display: none;
+  }
+}
+
+@media (max-width: 700px) {
+  #Exercises{
+    display: none;
+  }
+}
+
+@media (max-width: 620px) {
+  #References{
+    display: none;
+  }
+}
+@media (max-width: 610px) {
+  #tutorial{
+    display: none;
+  }
+}
+
+
+
+
+
+
+
+
+@media (min-width: 610px) {
+  #xx{
+    display: none;
+  }
+}
+
+@media (max-width: 580px) {
+  .head.response1.head2 {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .head.response1.head2.head10 select {
+    width: 5%;
+    margin-bottom: 10px;
+  }
+  
+  .head.response1.head2 .head10 {
+    flex-basis: 100%;
+    margin-bottom: 10px;
+  }
+}
+

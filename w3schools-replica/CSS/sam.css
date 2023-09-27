@@ -1,0 +1,724 @@
+@media (max-width: 1290px) {
+  .head.head3.response2 {
+    display: none;
+    display: none;
+  }
+}
+
+@media (max-width: 1535px) {
+  .head3 {
+    margin-left: 50px;
+    margin-left: 50px; /* Adjust this value as per your requirements */
+  }
+}
+
+@media (max-width: 850px) {
+  #hb2{
+    display: none;
+    display: none;
+  }
+}
+
+@media (max-width: 800px) {
+  #hb1{
+    display: none;
+    display: none;
+  }
+}
+
+@media (max-width: 700px) {
+  #Exercises{
+    display: none;
+  }
+}
+
+@media (max-width: 620px) {
+  #References{
+    display: none;
+  }
+}
+@media (max-width: 610px) {
+  #tutorial{
+    display: none;
+  }
+}
+
+
+
+
+* {
+  box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+
+.row::after {
+  content: "";
+  clear: both;
+  clear: both;
+  display: table;
+  display: table;
+}
+
+[class*="col-"] {
+  float: left;
+  padding: 15px;
+}
+
+
+html {
+  font-family: "Lucida Sans", sans-serif;
+  font-family: "Lucida Sans", sans-serif;
+}
+
+.header {
+  background-color: #9933cc;
+  background-color: #9933cc;
+  color: #ffffff;
+  color:#ffffff;
+  padding: 15px;
+  padding: 15px;
+}
+
+.menu ul {
+  list-style-type: none;
+  margin: 0;
+  margin: 0;
+  list-style-type: none;
+  padding: 0;
+  padding: 0;
+}
+
+.menu li {
+  padding: 8px;
+  padding: 8px;
+  margin-bottom: 7px;
+  margin-bottom: 7px;
+  background-color: #33b5e5;
+  background-color: #33b5e5;
+  color: #ffffff;
+  color: #ffffff;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 12), 0 1px 2px rgba(0, 0, 0, 24);
+}
+
+.menu li:hover {
+  background-color: #0099cc;
+  background-color: #0099cc;
+}
+
+.aside {
+  background-color: #33b5e5;
+  background-color: #33b5e5;
+  padding: 15px;
+  padding: 15px;
+  color: #ffffff;
+  text-align: center;
+  text-align: center;
+  font-size: 14px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  box-shadow: 0 2px 5px rgba(0, 0, 0,0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+.footer {
+  background-color: #0099cc;
+  background-color: #0099cc;
+  color: #ffffff;
+  color: #ffffff;
+  text-align: center;
+  text-align: center;
+  font-size: 12px;
+  font-size: 12px;
+  padding: 15px;
+  padding: 15px;
+}
+
+[class*="col-"] {
+  width: 100%;
+  width: 100%;
+}
+
+
+
+@media only screen and (min-width: 600px) {
+  /* For tablets: */
+  .col-s-1 {width: 8.33%;}
+  .col-s-2 {width: 16.66%;}
+  .col-s-3 {width: 25%;}
+  .col-s-4 {width: 33.33%;}
+  .col-s-5 {width: 41.66%;}
+  .col-s-6 {width: 50%;}
+  .col-s-7 {width: 58.33%;}
+  .col-s-8 {width: 66.66%;}
+  .col-s-9 {width: 75%;}
+  .col-s-10 {width: 83.33%;}
+  .col-s-11 {width: 91.66%;}
+  .col-s-12 {width: 100%;}
+}
+
+@media only screen and (min-width: 768px) {
+  /* For desktop: */
+  .col-1 {width: 8.33%;}
+  .col-2 {width: 16.66%;}
+  .col-3 {width: 25%;}
+  .col-4 {width: 33.33%;}
+  .col-5 {width: 41.66%;}
+  .col-6 {width: 50%;}
+  .col-7 {width: 58.33%;}
+  .col-8 {width: 66.66%;}
+  .col-9 {width: 75%;}
+  .col-10 {width: 83.33%;}
+  .col-11 {width: 91.66%;}
+  .col-12 {width: 100%;}
+}
+
+
+
+
+@media (min-width: 610px) {
+  #xx{
+    display: none;
+  }
+}
+
+@media (max-width: 580px) {
+  .head.response1.head2 {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .head.response1.head2.head10 select {
+    width: 5%;
+    margin-bottom: 10px;
+  }
+  
+  .head.response1.head2 .head10 {
+    flex-basis: 100%;
+    margin-bottom: 10px;
+  }
+}
+
+
+
+ .mid21,
+  .mid2right,
+  .mid31,.mid3right,
+  .mid41,.mid4right,
+  .mid51,.mid5right,
+  .mid61,.mid6right {
+    flex: none;
+    width: 100%;
+  }
+  
+  .mid21,.mid31,.mid41,.mid51,.mid61 {
+    order: -1; /* Move .mid2right to the top in stacked layout */
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+  margin: 0;
+  margin: 0;
+  padding: 0;
+  padding: 0;
+  box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.head1 {
+  float: left; /* Change float to left */
+  float: left;
+}
+
+#w3 {
+  width: 75px; /* Adjust the width as desired */
+  width: 75px;
+  height: 75px; /* Maintain aspect ratio */
+  height: 75px;
+}
+
+.head2{
+  float: left;
+  float: left;
+  margin-left: 50px;
+  margin-top: 30px;
+  margin-top: 30px;
+}
+.head10{
+  float: left;
+  float: left;
+  margin-left: 50px;
+  margin-left: 50px;
+  margin-top: 30px;
+  margin-top: 30px;
+}
+#tutorial,#references,#Exercises {
+  border: none;
+  border: none;
+}
+#tutorial option {
+  font-size: 16px; /* Adjust the value as desired */
+  font-size: 16px;
+}
+
+#xx {
+  border: none;
+  border: none;
+}
+#tutorial option {
+  font-size: 16px; /* Adjust the value as desired */
+  font-size: 16px;
+}
+
+
+#hb1, #hb2 {
+  border: none;
+  border: none;
+  background-color: transparent;
+  background-color: transparent;
+  cursor: pointer;
+  cursor: pointer;
+}
+
+#hb1:hover, #hb2:hover {
+  background-color: #02A66B;
+  background-color: #02A66B;
+}
+
+
+.head3
+{
+  float: left;
+  float: left;
+  margin-left: 300px;
+  margin-left: 300px;
+  margin-top: 20px;
+  margin-top: 20px;
+}
+.hb3, .hb4, .hb5 {
+  border-radius: 10px;
+  border-radius: 10px;
+  border: none;
+  border: none;
+  color: black;
+  color: black;
+  cursor: pointer;
+  cursor: pointer;
+
+  font-size: 15px; /* Adjust the value as desired */
+  font-size: 15px;
+  padding: 7px 15px; /* Adjust the padding values as desired */
+  padding: 7px 15px;
+
+}
+
+
+.moveable-object {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+
+
+
+
+.hb3{background-color: #9564F3}
+.hb3{background-color: #9564F3}
+.hb4{background-color: #FFC3C3}
+.hb4{background-color: #FFC3C3}
+.hb5{background-color: #FFF3A1}
+.hb5{background-color: #FFF3A1}
+.hb3:hover{background-color: #6F2AEF}
+.hb3:hover{background-color: #6F2AEF}
+.hb4:hover{background-color: #FF8080}
+.hb4:hover{background-color: #FF8080}
+.hb5:hover{background-color: #FFE74D}
+.hb5:hover{background-color: #FFE74D;
+}
+
+
+/*kfnmmmmm<html><hred>/head><yitlr></title>
+jnjf <body></body>
+*/
+
+
+.head4 {
+  float: left;
+  float: left;
+  margin-left: 40px;
+  margin-left: 40px;
+  margin-top: 20px;
+  margin-top: 20px; /* Add some spacing between the div elements */
+
+}
+
+.hb6, .hb7 {
+  border-radius: 10px;
+  border-radius: 10px;
+  border: none;
+  border: none;
+  color: black;
+  color: black;
+  cursor: pointer;
+  cursor: pointer;
+
+  font-size: 15px; /* Adjust the value as desired */
+  font-size: 15px;
+  padding: 7px 15px; /* Adjust the padding values as desired */
+  padding: 7px 15px;
+
+}
+.hb6, .hb7{background-color: #E6FFF6}
+.hb6, .hb7{background-color: #E6FFF6}
+.hb6:hover, .hb7:hover{background-color: #02A66B}
+.hb6:hover, .hb7:hover{background-color: #02A66B}
+
+
+
+/* first middle part of the website*/
+
+.mid1 {
+  clear: left;
+  clear: left;
+  background-color: #282A36;
+  background-color: #282A36;
+  height: 450px;
+  height: 450px;
+  width:100vw;
+  width: 100vw;
+}
+
+
+
+
+
+
+.mid11 {
+  display: block;
+  display: block;
+  color: white;
+  color: white;
+  font-size: 60px;
+  font-size: 60px;
+  text-align: center;
+  text-align: center;
+  transform: translateY(150%);
+  transform: translateY(150%);
+}
+.mid12 {
+  display: block;
+  display: block;
+  color: #FFC3C3;
+  font-size: 18px;
+  font-size: 18px;
+  text-align: center;
+  text-align: center;
+  transform: translateY(600%);
+  transform: translateY(600%);
+}
+
+
+#tsearch {
+  width: 400px;
+  width: 400px;
+  height: 40px;
+  height: 40px;
+  padding: 10px;
+  padding: 10px;
+  border-radius: 50px;
+  border-radius: 50px;
+  border: none;
+  border: none;
+  background: linear-gradient(to left, #02A66B 20%, white 20%); /* Adjust the colors and percentage as desired */
+  background: linear-gradient(to left, #02A66B 20%, white 20%);
+}
+
+.search-box {
+  position: relative;
+  position: relative;
+}
+
+.search-icon {
+  position: absolute;
+  position: absolute;
+  top: 50%;
+  top: 50%;
+  left: 920px;
+  left: 920px;
+  transform: translateY(-50%);
+  transform: translateY(-50%);
+  width: 20px;
+  width: 20px;
+  height: 20px;
+  height: 20px;
+  background-image: url('search.png'); /* Replace 'search-icon.png' with your image path */
+    background-color: url('search.png');
+  background-repeat: no-repeat;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: cover;
+  cursor: pointer;
+  cursor: pointer;
+}
+
+.mid13 {
+  display: block;
+  display: block;
+  color: white;
+  color: white;
+  text-align: center;
+  text-align: center;
+  transform: translateY(400%);
+  transform: translateY(400%);
+}
+
+
+
+
+
+
+
+.mid14 {
+  display: block;
+  display: block;
+  font-size: 20px;
+  font-size: 20px;
+  text-align: center;
+  text-align: center;
+  transform: translateY(900%)
+  transform: translateY(900%);
+}
+
+.mid14 a {
+  color: white;
+  color: white;
+  text-decoration: underline;
+  text-decoration: underline;
+}
+
+.mid14 a:hover {
+  color: #02A66B;
+  color: #02A66B;
+}
+
+
+
+
+
+
+.mid2{
+  display: flex; /* Use flexbox */
+  display: flex;
+  background-color: #D9EDE1;
+  background-color: #D9EDE1;
+  height: 450px;
+  height: 450px;
+  width: 100vw;
+  width: 100vw;
+}
+.mid21 {
+  flex: 1; /* Take up equal space */
+  flex: 1;
+   /* Just for visualization */
+  flex-direction: column;
+  flex-direction: column;
+  justify-content: center;
+  justify-content: center;
+  align-items: center;
+  align-items: center;
+}
+
+
+
+
+
+.mid2right {
+  flex: 1; /* Take up equal space */
+  flex: 1;
+   /* Just for visualization */
+  display: flex; /* Use flexbox */
+  display: flex;
+  justify-content: center; /* Horizontally center the content */
+  justify-content: center;
+  align-items: center; /* Vertically center the content */
+  align-items: center;
+}
+
+.box {
+  background-color: lightgrey;
+  background-color: lightgrey;
+  height: 350px;
+  height: 350px;
+  width: 500px;
+  width: 500px;
+  position: relative;
+  position: relative;
+  overflow: hidden;
+  overflow: hidden;
+}
+
+.inner-box {
+  position: absolute; /* Position the inner box */
+  position: absolute;
+  top: 45px;
+  top: 45px;
+  left: 0;
+  left: 0;
+  height: 73%;
+  height: 73%;
+  width: 100%;
+  width: 100%;
+  
+  background-color: white; /* Different background color */
+  background-color: white;
+  border-left: 5px solid green; /* Green left border */
+  border-left: 5px solid green;
+ 
+}
+
+  .top-content{
+    margin-top: 15px; 
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-left: 10px; 
+    font-weight: bold;
+    font-size: bold;
+    font-size: 20px;
+    font-size: 20px;
+  }
+  .bottom-content{
+    margin-top: 270px; 
+    margin-top: 270px;
+    margin-left: 10px;
+    margin-left: 10px; 
+    font-weight: bold;
+    font-size: 20px;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  #box1 {
+  border-radius: 20px;
+  border-radius: 20px;
+  border: none;
+  border: none;
+  color: white;
+  color: white;
+  cursor: pointer;
+  cursor: pointer;
+  background-color: #02A66B;
+  background-color: #02A66B;
+  font-size: 15px; /* Adjust the value as desired */
+  font-size: 15px;
+  padding: 7px 15px; /* Adjust the padding values as desired */
+    padding: 7px 15px;
+}
+
+
+
+
+
+#box1:hover{
+  background-color: #017E50;
+  background-color: #017E50;
+}
+
+#pre1 {
+  position: absolute;
+  position: absolute;
+  top: 0;
+  top: 0;
+  right: 230;
+  right: 230;
+  margin: 0;
+  margin: 0;
+  padding: 10px;
+  padding: 10px;
+  font-size: 15px;
+  font-size: 15px;
+}
+
+
+.mid21 {
+  flex: 1;
+  flex: 1;
+  background-color: #D9EDE1;
+  background-color: #D9EDE1;
+  display: flex;
+  display: flex;
+  flex-direction: column; /* Stack the items vertically */
+  flex-direction: column;
+  justify-content: center; /* Center vertically */
+  justify-content: center;
+  align-items: center; /* Center horizontally */
+  align-items: center;
+}
+
+
+#pmid21{
+
+  font-size: 50px;
+  font-size: 50px;
+  font-weight: bold;
+  font-weight: bold;
+}
+#pmid22{
+  font-weight: bold;
+  font-weight: bold;
+  margin-top: 15px;
+  margin-top: 15px;
+}
+
+
+
+
+#p21,#p22,#p23,#p24 {
+  border-radius: 20px;
+  border-radius: 20px;
+  border: none;
+  border: none;
+  color: white;
+  color: white;
+  width: 180px;
+  width: 180px;
+  cursor: pointer;
+  cursor: pointer;
+  margin-top: 15px;
+  margin-top: 15px;
+  font-size: 15px; /* Adjust the value as desired */
+  font-size: 15px;
+  padding: 7px 15px; /* Adjust the padding values as desired */
+  padding: 7px 15px;
+
+}
+
+
+#p21{background-color: #02A66B;}
+#p22{background-color: #FFF3A1}
+#p23{background-color: #282A36}
+#p24{background-color: #FFC3C3}
+#p21:hover{background-color: #017E50;}
+#p22:hover{background-color: #FFE74D}
+#p23:hover{background-color: #282A36}
+#p24:hover{background-color: #6F2AEF}

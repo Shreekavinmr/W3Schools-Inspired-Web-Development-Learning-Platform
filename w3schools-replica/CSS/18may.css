@@ -1,0 +1,353 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.head1 {
+  float: left; /* Change float to left */
+}
+
+#w3 {
+  width: 75px; /* Adjust the width as desired */
+  height: 75px; /* Maintain aspect ratio */
+}
+
+.head2{
+  float: left;
+  margin-left: 50px;
+  margin-top: 30px;
+}
+
+
+
+
+
+
+.head3,.head head4
+{
+  float: right;
+  
+  margin-top: 20px;
+}
+.hb3, .hb4, .hb5 {
+  border-radius: 10px;
+  border: none;
+  color: black;
+  cursor: pointer;
+
+  font-size: 15px; /* Adjust the value as desired */
+  padding: 7px 15px; /* Adjust the padding values as desired */
+
+}
+.hb3{background-color: #9564F3}
+.hb4{background-color: #FFC3C3}
+.hb5{background-color: #FFF3A1}
+.hb3:hover{background-color: #6F2AEF}
+.hb4:hover{background-color: #FF8080}
+.hb5:hover{background-color: #FFE74D}
+
+
+/*kfnmmmmm<html><hred>/head><yitlr></title>
+jnjf <body></body>
+*/
+
+
+.head4 {
+  float: right;
+  margin-left: 40px;
+  margin-top: 20px; /* Add some spacing between the div elements */
+
+}
+
+.hb6, .hb7 {
+  border-radius: 10px;
+  border: none;
+  color: black;
+  cursor: pointer;
+
+  font-size: 15px; /* Adjust the value as desired */
+  padding: 7px 15px; /* Adjust the padding values as desired */
+
+}
+.hb6, .hb7{background-color: #E6FFF6}
+.hb6:hover, .hb7:hover{background-color: #02A66B}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* first middle part of the website*/
+
+.mid1 {
+  clear: left;
+  background-color: #282A36;
+  height: 450px;
+  width:100vw;
+}
+
+
+
+
+
+
+.mid11 {
+  display: block;
+  color: white;
+  font-size: 60px;
+  text-align: center;
+  transform: translateY(150%);
+}
+.mid12 {
+  display: block;
+  color: #FFC3C3;
+  font-size: 18px;
+  text-align: center;
+  transform: translateY(600%);
+}
+
+
+#tsearch {
+  width: 400px;
+  height: 40px;
+  padding: 10px;
+  border-radius: 50px;
+  border: none;
+  background: linear-gradient(to left, #02A66B 20%, white 20%); /* Adjust the colors and percentage as desired */
+}
+
+.search-box {
+  position: relative;
+}
+
+.search-icon {
+  position: absolute;
+  top: 50%;
+  left: 920px;
+  transform: translateY(-50%);
+  width: 20px;
+  height: 20px;
+  background-image: url('search.png'); /* Replace 'search-icon.png' with your image path */
+  background-repeat: no-repeat;
+  background-size: cover;
+  cursor: pointer;
+}
+
+.mid13 {
+  display: block;
+  color: white;
+  text-align: center;
+  transform: translateY(400%);
+}
+
+
+
+
+
+
+
+.mid14 {
+  display: block;
+  font-size: 20px;
+  text-align: center;
+  transform: translateY(900%)
+}
+
+.mid14 a {
+  color: white;
+  text-decoration: underline;
+}
+
+.mid14 a:hover {
+  color: #02A66B;
+}
+
+
+
+
+
+
+.mid2{
+  display: flex; /* Use flexbox */
+  background-color: #D9EDE1;
+  height: 450px;
+  width: 100vw;
+}
+.mid21 {
+  flex: 1; /* Take up equal space */
+   /* Just for visualization */
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+
+.mid2right {
+  flex: 1; /* Take up equal space */
+   /* Just for visualization */
+  display: flex; /* Use flexbox */
+  justify-content: center; /* Horizontally center the content */
+  align-items: center; /* Vertically center the content */
+}
+
+.box {
+  background-color: lightgrey;
+  height: 350px;
+  width: 500px;
+  position: relative;
+  overflow: hidden;
+}
+
+.inner-box {
+  position: absolute; /* Position the inner box */
+  top: 45px;
+  left: 0;
+  height: 73%;
+  width: 100%;
+  
+  background-color: white; /* Different background color */
+  border-left: 5px solid green; /* Green left border */
+ 
+}
+
+  .top-content{
+    margin-top: 15px; 
+    margin-left: 10px; 
+    font-weight: bold;
+    font-size: 20px;
+  }
+  .bottom-content{
+    margin-top: 270px; 
+    margin-left: 10px; 
+    font-weight: bold;
+    font-size: 20px;
+  }
+  #box1 {
+  border-radius: 20px;
+  border: none;
+  color: white;
+  cursor: pointer;
+  background-color: #02A66B;
+  font-size: 15px; /* Adjust the value as desired */
+  padding: 7px 15px; /* Adjust the padding values as desired */
+
+}
+#box1:hover{
+  background-color: #017E50;
+}
+
+#pre1 {
+  position: absolute;
+  top: 0;
+  right: 230;
+  margin: 0;
+  padding: 10px;
+  font-size: 15px;
+}
+
+
+.mid21 {
+  flex: 1;
+  background-color: #D9EDE1;
+  display: flex;
+  flex-direction: column; /* Stack the items vertically */
+  justify-content: center; /* Center vertically */
+  align-items: center; /* Center horizontally */
+}
+
+
+#pmid21{
+
+  font-size: 50px;
+  font-weight: bold;
+}
+#pmid22{
+  font-weight: bold;
+  margin-top: 15px;
+}
+
+
+
+
+#p21,#p22,#p23,#p24 {
+  border-radius: 20px;
+  border: none;
+  color: white;
+  width: 180px;
+  cursor: pointer;
+  margin-top: 15px;
+  font-size: 15px; /* Adjust the value as desired */
+  padding: 7px 15px; /* Adjust the padding values as desired */
+
+}
+#p21{background-color: #02A66B;}
+#p22{background-color: #FFF3A1}
+#p23{background-color: #282A36}
+#p24{background-color: #FFC3C3}
+#p21:hover{background-color: #017E50;}
+#p22:hover{background-color: #FFE74D}
+#p23:hover{background-color: #282A36}
+#p24:hover{background-color: #6F2AEF}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.final1 {
+  clear: left;
+  background-color: white;
+  height: auto;
+  width:100vw;
+}
+
+
+
+
+
+
+.final14 {
+  display: block;
+  font-size: 15px;
+  text-align: center;
+  color: black;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  /*transform: translateY(900%)*/
+}

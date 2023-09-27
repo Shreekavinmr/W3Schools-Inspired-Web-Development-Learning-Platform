@@ -1,0 +1,844 @@
+@media (max-width: 700px) {
+  .hs111{margin-left: 60px}
+  .hs121{margin-left: 60px}
+  .hs131{margin-left: 60px}
+}
+
+
+@media(max-width: 700px){
+  .hs111{margin-left: 60px}
+  .hs121{margin-left: 60px}
+  .hs131{margin-left: 60px}
+}
+
+
+@media (min-width: 701px) {
+  .hs111{margin-left: 100px}
+  .hs121{margin-left: 100px}
+  .hs131{margin-left: 100px}
+}
+
+
+@media (min-width: 701px){
+  .hs111{margin-left: 100px}
+  .hs121{margin-left: 100px}
+  .hs131{margin-left: 100px}
+}
+
+
+
+.hs111 {
+  
+  color: white;
+  font-size: 50px;
+  padding-top: 80px;
+}
+
+.hs111{
+  color: white;
+  font-size: 50px;
+  padding-top: 80px;
+}
+
+
+
+.hs121 {
+  display: block;
+  color: #FFC3C3;
+  font-size: 20px;
+  margin-top: 20px;
+  
+}
+
+.hs121{
+  display: block;
+  color: #FFC3C3;
+  fomt-size: 20px;
+  margin-top: 20px;
+}
+
+
+.hs131 {
+  display: block;
+  color: white;
+   margin-top: 20px;
+  
+  
+}
+
+
+.m2 {
+  background-color: #f2f2f2; /* Replace with your desired color */
+  height: 500px;
+}
+.m2{
+  background-color: #f2f2f2;
+  height: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Float four columns side by side */
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 5px;
+}
+
+.column{
+  float:left;
+  width:25%;
+  padding: 0 5px;
+}
+
+
+
+
+.row {margin: 0 -5px;}
+
+.row {margin: 0 -5px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+  }
+}
+
+@media screen and (max-width: 600px){
+  .column{
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+  }
+}
+
+
+
+
+/* Style the counter cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-color: #444;
+  color: white;
+}
+.card{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  padding: 16px;
+  text-align: center;
+  background-color: #444;
+  color: white;
+}
+
+
+
+
+
+.fa {font-size:50px;}
+.fa {font-size: 50px;}
+
+.add1{
+  height: 200px;
+}
+
+.add1{
+  height: 200px;
+}
+
+
+
+.parent-container {
+  margin-top: 50px;
+
+ 
+  justify-content: center;
+  /* Add any additional styles as needed */
+}
+
+
+
+
+.parent-container{
+  margin-top: 50px;
+  justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 700px) {
+  .hs111{margin-left: 60px}
+  .hs121{margin-left: 60px}
+  .hs131{margin-left: 60px}
+}
+@media (min-width: 701px) {
+  .hs111{margin-left: 100px}
+  .hs121{margin-left: 100px}
+  .hs131{margin-left: 100px}
+}
+
+
+
+.hs111 {
+  
+  color: white;
+  font-size: 50px;
+  padding-top: 80px;
+}
+.hs121 {
+  display: block;
+  color: #FFC3C3;
+  font-size: 20px;
+  margin-top: 20px;
+  
+}
+
+
+
+
+.hs131 {
+  display: block;
+  color: white;
+   margin-top: 20px;
+  
+  
+}
+
+
+.m2 {
+  background-color: #f2f2f2; /* Replace with your desired color */
+  height: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Float four columns side by side */
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 5px;
+}
+
+.row {margin: 0 -5px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+  }
+}
+
+/* Style the counter cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-color: #444;
+  color: white;
+}
+
+.fa {font-size:50px;}
+
+.add1{
+  height: 200px;
+}
+
+
+
+.parent-container {
+  margin-top: 50px;
+
+ 
+  justify-content: center;
+  /* Add any additional styles as needed */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.heading {
+  font-size: 25px;
+  margin-right: 25px;
+}
+
+.fa {
+  font-size: 25px;
+}
+
+.checked {
+  color: orange;
+}
+
+/* Three column layout */
+.side {
+  float: left;
+  width: 15%;
+  margin-top:20px;
+}
+
+.middle {
+  margin-top:20px;
+  float: left;
+  width: 70%;
+}
+
+/* Place text to the right */
+.right {
+  text-align: right;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* The bar container */
+.bar-container {
+  width: 100%;
+  background-color: #f1f1f1;
+  text-align: center;
+  color: white;
+}
+
+/* Individual bars */
+.bar-5 {width: 60%; height: 18px; background-color: #04AA6D;}
+.bar-4 {width: 30%; height: 18px; background-color: #2196F3;}
+.bar-3 {width: 10%; height: 18px; background-color: #00bcd4;}
+.bar-2 {width: 4%; height: 18px; background-color: #ff9800;}
+.bar-1 {width: 15%; height: 18px; background-color: #f44336;}
+
+/* Responsive layout - make the columns stack on top of each other instead of next to each other */
+@media (max-width: 400px) {
+  .side, .middle {
+    width: 100%;
+  }
+  .right {
+    display: none;
+  }
+}
+
+
+
+.rating-container {
+  max-width: 1000px; /* Adjust the width value as needed */
+  margin: 0 auto; /* Center the container horizontally */
+  /* Add any additional styles as needed */
+  padding-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+/* Style the list items */
+ul li {
+  cursor: pointer;
+  position: relative;
+  padding: 12px 8px 12px 40px;
+  list-style-type: none;
+  background: #eee;
+  font-size: 18px;
+  transition: 0.2s;
+  
+  /* make the list items unselectable */
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Set all odd list items to a different color (zebra-stripes) */
+ul li:nth-child(odd) {
+  background: #f9f9f9;
+}
+
+/* Darker background-color on hover */
+ul li:hover {
+  background: #ddd;
+}
+
+/* When clicked on, add a background color and strike out text */
+ul li.checked {
+  background: #888;
+  color: #fff;
+  text-decoration: line-through;
+}
+
+/* Add a "checked" mark when clicked on */
+ul li.checked::before {
+  content: '';
+  position: absolute;
+  border-color: #fff;
+  border-style: solid;
+  border-width: 0 2px 2px 0;
+  top: 10px;
+  left: 16px;
+  transform: rotate(45deg);
+  height: 15px;
+  width: 7px;
+}
+
+/* Style the close button */
+.close {
+  position: absolute;
+  right: 0;
+  top: 0;
+  padding: 12px 16px 12px 16px;
+}
+
+.close:hover {
+  background-color: #f44336;
+  color: white;
+}
+
+/* Style the header */
+.header {
+  background-color: #02A66B;
+  padding: 30px 40px;
+  color: black;
+  text-align: center;
+}
+
+/* Clear floats after the header */
+.header:after {
+  content: "";
+  display: table-footer-group !important;
+  clear: both;
+}
+
+/* Style the input */
+input {
+  margin: 0;
+  border: none;
+  border-radius: 0;
+  width: 75%;
+  padding: 10px;
+  float: left;
+  font-size: 16px;
+}
+
+/* Style the "Add" button */
+.addBtn {
+  padding: 10px;
+  width: 25%;
+  background: #d9d9d9 !important;
+  color: #555 inherit initial aliceblue a;
+  float: left;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s !important;
+  border-radius: 0;
+}
+
+.addBtn:hover {
+  background-color: #bbb;
+  background-color: peachpuff;
+}
+
+
+
+.gap{
+ height: 50px;
+ height: 100px;
+
+}
+
+
+
+
+
+
+.heading {
+  font-size: 25px;
+  margin-right: 25px;
+  font size: 25px;
+  margin-right: 25px;
+}
+
+.fa {
+  font-size: 25px;
+  font-size: 25px;
+}
+
+.checked {
+  color: orange;
+  color: orange;
+
+}
+
+/* Three column layout */
+.side {
+  float: left;
+  float: left;
+  width: 15%;
+  width: 15%;
+  margin-top:20px;
+  margin-top: 20px;
+}
+
+.middle {
+  margin-top:20px;
+  margin-top:20px;
+  float: left;
+  float:left;
+  width: 70%;
+  width: 70%;
+}
+
+/* Place text to the right */
+.right {
+  text-align: right;
+  text-align: right;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  content:"";
+  display: table;
+  display: table;
+  clear: both;
+  clear: both;
+}
+
+/* The bar container */
+.bar-container {
+  width: 100%;
+  width:100%;
+  background-color: #f1f1f1;
+  background-color: #f1f1f1;
+  text-align: center;
+  text-align: center;
+  color: white;
+  color: white;
+}
+
+/* Individual bars */
+.bar-5 {width: 60%; height: 18px; background-color: #04AA6D;}
+.bar-4 {width: 30%; height: 18px; background-color: #2196F3;}
+.bar-3 {width: 10%; height: 18px; background-color: #00bcd4;}
+.bar-2 {width: 4%; height: 18px; background-color: #ff9800;}
+.bar-1 {width: 15%; height: 18px; background-color: #f44336;}
+
+/* Responsive layout - make the columns stack on top of each other instead of next to each other */
+@media (max-width: 400px) {
+  .side, .middle {
+    width: 100%;
+  }
+  .right {
+    display: none;
+  }
+}
+
+
+
+.rating-container {
+  max-width: 1000px; /* Adjust the width value as needed */
+  margin: 0 auto; /* Center the container horizontally */
+  /* Add any additional styles as needed */
+  padding-bottom: 50px;
+}
+
+
+.rating-container{
+  max-width: 1000px;
+  margin: 0 auto;
+  padding-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+/* Style the list items */
+ul li {
+  cursor: pointer;
+  position: relative;
+  padding: 12px 8px 12px 40px;
+  list-style-type: none;
+  background: #eee;
+  font-size: 18px;
+  transition: 0.2s;
+  
+  /* make the list items unselectable */
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+ul li {
+  cursor: pointer;
+  position: relative;
+  padding: 12px 8px 12px 40px;
+  list-style-type: none;
+  background: #eee;
+  font-size: 18px;
+  transition: 0.2s;
+
+
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+
+
+
+
+/* Set all odd list items to a different color (zebra-stripes) */
+ul li:nth-child(odd) {
+  background: #f9f9f9;
+}
+
+/* Darker background-color on hover */
+ul li:hover {
+  background: #ddd;
+}
+
+/* When clicked on, add a background color and strike out text */
+ul li.checked {
+  background: #888;
+  color: #fff;
+  text-decoration: line-through;
+}
+
+/* Add a "checked" mark when clicked on */
+ul li.checked::before {
+  content: '';
+  position: absolute;
+  border-color: #fff;
+  border-style: solid;
+  border-width: 0 2px 2px 0;
+  top: 10px;
+  left: 16px;
+  transform: rotate(45deg);
+  height: 15px;
+  width: 7px;
+}
+
+/* Style the close button */
+.close {
+  position: absolute;
+  right: 0;
+  top: 0;
+  padding: 12px 16px 12px 16px;
+}
+
+.close:hover {
+  background-color: #f44336;
+  color: white;
+}
+
+/* Style the header */
+.header {
+  background-color: #02A66B;
+  padding: 30px 40px;
+  color: black;
+  text-align: center;
+}
+
+/* Clear floats after the header */
+.header:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the input */
+input {
+  margin: 0;
+  border: none;
+  border-radius: 0;
+  width: 75%;
+  padding: 10px;
+  float: left;
+  font-size: 16px;
+}
+
+/* Style the "Add" button */
+.addBtn {
+  padding: 10px;
+  width: 25%;
+  background: #d9d9d9;
+  color: #555;
+  float: left;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+  border-radius: 0;
+}
+
+.addBtn:hover {
+  background-color: #bbb;
+}
+
+
+
+.gap{
+ height: 50px;
+}
