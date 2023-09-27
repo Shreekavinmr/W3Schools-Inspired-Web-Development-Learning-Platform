@@ -16,4 +16,4 @@ Concept Clarity: Access simplified explanations and examples for HTML, CSS, and 
 
 Responsive Design: Gain practical insights into responsive web design, empowering you to create websites that adapt gracefully to various screen sizes and devices.
 
-# Note change the path of css, html and Js in different files accordingly after downloading.
+# Note: change the path of css, html and Js in different files accordingly after downloading.
