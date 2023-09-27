@@ -15,3 +15,5 @@ Interactive Learning: Dive into hands-on coding experiences with our integrated 
 Concept Clarity: Access simplified explanations and examples for HTML, CSS, and JavaScript topics, ensuring that learners of all levels can comprehend these essential concepts.
 
 Responsive Design: Gain practical insights into responsive web design, empowering you to create websites that adapt gracefully to various screen sizes and devices.
+
+# Note change the path of css, html and Js in different files accordingly after downloading.
